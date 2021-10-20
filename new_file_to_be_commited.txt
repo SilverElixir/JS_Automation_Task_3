@@ -1,0 +1,16 @@
+To properly submit assignment student ought to:
+
+Submit your work on GitHub
+Create account on GitHub
+Create repository on Github
+Clone repository from GitHub to local computer
+Commit changes
+Upload (push) changes to GitHub
+Assignment submission
+Open submission form
+Add link to the file/directory with completed assignment on GitHub
+Save draft. You can save draft as many times as you have updates to submission
+When deciding to submit press button Submit Assignment
+Accept submission statement
+Finish submission by pressing Continue
+Wait for teacher to grade submission. You are awarded 1 point for each task in assignment. You will receive additional point if you complete task exceptionally
